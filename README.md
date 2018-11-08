@@ -4,6 +4,10 @@ This guide shows the steps to setting up an [FRR Software Router](https://frrout
 
 This guide is based heavily on the work from the FRR Wiki post on [Alternative Forwarding Planes](https://github.com/FRRouting/frr/wiki/Alternate-forwarding-planes:-VPP).
 
+The BGP Full Table howto is based on [this](https://www.stubarea51.net/2016/01/21/put-500000-bgp-routes-in-your-lab-network-download-this-vm-and-become-your-own-upstream-bgp-isp-for-testing/)
+
+If you want to download OVFs for this they can be found [http://dpdk.ahouston.net](http://dpdk.ahouston.net)
+
 # Install VPP
 
 These steps were completed on a vanilla install of Ubuntu 18.04 LTS - Bionic Beaver - the server edition of course.
